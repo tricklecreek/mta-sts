@@ -2,4 +2,4 @@ version: STSv1
 mode: testing
 mx: mx1-us.emailsecurity.app
 mx: mx2-us.emailsecurity.app
-max_age: 28800
+max_age: 86400
